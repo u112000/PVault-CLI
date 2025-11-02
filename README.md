@@ -136,9 +136,9 @@ if the key/* are accidentally lost🤷. Then delete the SQL file(as it contents 
 
 ## ⚠️ Disclaimer
 
-This project is for personal use and learning.
-It is not intended for production-grade password storage.
----
+- This project is for personal use and learning.
+- It is not intended for production-grade password storage.
+
 
 
 ## Roadmap
